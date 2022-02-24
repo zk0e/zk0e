@@ -64,6 +64,10 @@ I'm from Egypt.
     <a>
     <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-40916c.svg?logo=Microsoft-Edge&logoColor=white&style=for-the-badge">
     </a>
+    &nbsp;
+    <a>
+    <img alt="Firefox Dev" src="https://img.shields.io/badge/Firefox_Developer-4A47A3.svg?logo=Firefox-Browser&logoColor=white&style=for-the-badge">
+    </a>
     <!-- &nbsp;
     <a>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
