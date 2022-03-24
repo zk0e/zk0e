@@ -58,7 +58,7 @@ I'm from Egypt.
     </a>
     &nbsp;
     <a>
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-1793D1.svg?logo=kali-linux&logoColor=white&style=for-the-badge">
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Linux%20Mint-18c46e.svg?logo=linux-mint&logoColor=white&style=for-the-badge">
     </a>
     &nbsp;
     <a>
