@@ -58,11 +58,11 @@ I'm from Egypt.
     </a>
     &nbsp;
     <a>
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Linux%20Mint-18c46e.svg?logo=linux-mint&logoColor=white&style=for-the-badge">
+    <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-06A284.svg?logo=linux-mint&logoColor=white&style=for-the-badge">
     </a>
     &nbsp;
     <a>
-    <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-40916c.svg?logo=Microsoft-Edge&logoColor=white&style=for-the-badge">
+    <!-- <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-40916c.svg?logo=Microsoft-Edge&logoColor=white&style=for-the-badge"> -->
     </a>
     &nbsp;
     <a>
