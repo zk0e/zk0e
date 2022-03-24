@@ -62,7 +62,7 @@ I'm from Egypt.
     </a>
     &nbsp;
     <a>
-    <!-- <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-40916c.svg?logo=Microsoft-Edge&logoColor=white&style=for-the-badge"> -->
+    <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-40916c.svg?logo=Microsoft-Edge&logoColor=white&style=for-the-badge">
     </a>
     &nbsp;
     <a>
